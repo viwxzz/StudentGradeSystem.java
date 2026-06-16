@@ -20,4 +20,4 @@ javac StudentGradeSystem.java
 java StudentGradeSystem
 
 ## Author
-Viwin Krish
+Viwin Krishnan
